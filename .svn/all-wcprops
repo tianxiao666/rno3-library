@@ -1,0 +1,1427 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/srcsvn/library/!svn/ver/118/rno3.0
+END
+hadoop-archive-logs-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-archive-logs-2.6.0-cdh5.5.0.jar
+END
+aspectjrt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/srcsvn/library/!svn/ver/105/rno3.0/aspectjrt.jar
+END
+commons-io-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/105/rno3.0/commons-io-2.4.jar
+END
+hadoop-hdfs-nfs-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-hdfs-nfs-2.6.0-cdh5.5.0.jar
+END
+hadoop-yarn-registry-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-yarn-registry-2.6.0-cdh5.5.0.jar
+END
+lucene-core-5.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/srcsvn/library/!svn/ver/116/rno3.0/lucene-core-5.3.0.jar
+END
+org.springframework.aspects-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.aspects-3.0.4.RELEASE.jar
+END
+hive-metastore-1.1.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/srcsvn/library/!svn/ver/116/rno3.0/hive-metastore-1.1.0-cdh5.5.0.jar
+END
+hbase-common-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-common-1.0.0-cdh5.5.0.jar
+END
+jaxb-impl-2.2.3-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/srcsvn/library/!svn/ver/105/rno3.0/jaxb-impl-2.2.3-1.jar
+END
+jxl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/srcsvn/library/!svn/ver/105/rno3.0/jxl.jar
+END
+hibernate-core-3.3.1.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/srcsvn/library/!svn/ver/105/rno3.0/hibernate-core-3.3.1.GA.jar
+END
+jackson-jaxrs-1.8.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/srcsvn/library/!svn/ver/105/rno3.0/jackson-jaxrs-1.8.8.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/srcsvn/library/!svn/ver/105/rno3.0/antlr-2.7.6.jar
+END
+hive-jdbc-1.1.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/srcsvn/library/!svn/ver/116/rno3.0/hive-jdbc-1.1.0-cdh5.5.0.jar
+END
+zxing.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/srcsvn/library/!svn/ver/105/rno3.0/zxing.jar
+END
+hadoop-yarn-applications-unmanaged-am-launcher-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-yarn-applications-unmanaged-am-launcher-2.6.0-cdh5.5.0.jar
+END
+lucene-analyzers-common-5.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/srcsvn/library/!svn/ver/116/rno3.0/lucene-analyzers-common-5.3.0.jar
+END
+mockrunner-0.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/srcsvn/library/!svn/ver/105/rno3.0/mockrunner-0.4.1.jar
+END
+hbase-hadoop-compat-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-hadoop-compat-1.0.0-cdh5.5.0.jar
+END
+jstl-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/srcsvn/library/!svn/ver/105/rno3.0/jstl-1.2.jar
+END
+jettison-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/srcsvn/library/!svn/ver/105/rno3.0/jettison-1.1.jar
+END
+org.springframework.web.servlet-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.web.servlet-3.0.4.RELEASE.jar
+END
+hive-webhcat-java-client-1.1.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/library/!svn/ver/116/rno3.0/hive-webhcat-java-client-1.1.0-cdh5.5.0.jar
+END
+hadoop-yarn-server-applicationhistoryservice-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-yarn-server-applicationhistoryservice-2.6.0-cdh5.5.0.jar
+END
+libthrift-0.9.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/srcsvn/library/!svn/ver/108/rno3.0/libthrift-0.9.2.jar
+END
+stax-api-1.0-2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/105/rno3.0/stax-api-1.0-2.jar
+END
+bsh-2.0b5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/srcsvn/library/!svn/ver/105/rno3.0/bsh-2.0b5.jar
+END
+commons-math3-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/srcsvn/library/!svn/ver/105/rno3.0/commons-math3-3.1.1.jar
+END
+hadoop-yarn-server-nodemanager-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-yarn-server-nodemanager-2.6.0-cdh5.5.0.jar
+END
+hadoop-ant-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-ant-2.6.0-cdh5.5.0.jar
+END
+poi-ooxml-schemas-3.8-beta1-20110307.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/srcsvn/library/!svn/ver/105/rno3.0/poi-ooxml-schemas-3.8-beta1-20110307.jar
+END
+hadoop-mapreduce-client-hs-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-mapreduce-client-hs-2.6.0-cdh5.5.0.jar
+END
+guice-servlet-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/srcsvn/library/!svn/ver/105/rno3.0/guice-servlet-2.0.jar
+END
+orai18n.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/srcsvn/library/!svn/ver/116/rno3.0/orai18n.jar
+END
+hbase-client-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-client-1.0.0-cdh5.5.0.jar
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/srcsvn/library/!svn/ver/117/rno3.0/.project
+END
+hadoop-openstack-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-openstack-2.6.0-cdh5.5.0.jar
+END
+activation-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/srcsvn/library/!svn/ver/105/rno3.0/activation-1.1.1.jar
+END
+zookeeper-3.4.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/srcsvn/library/!svn/ver/105/rno3.0/zookeeper-3.4.6.jar
+END
+aspectjweaver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/srcsvn/library/!svn/ver/105/rno3.0/aspectjweaver.jar
+END
+freemarker-2.3.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/srcsvn/library/!svn/ver/105/rno3.0/freemarker-2.3.15.jar
+END
+commons-chain-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/srcsvn/library/!svn/ver/105/rno3.0/commons-chain-1.2.jar
+END
+log4j-over-slf4j-1.7.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/srcsvn/library/!svn/ver/110/rno3.0/log4j-over-slf4j-1.7.12.jar
+END
+commons-csv-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/srcsvn/library/!svn/ver/118/rno3.0/commons-csv-1.2.jar
+END
+doxia-module-apt-1.0-alpha-11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/srcsvn/library/!svn/ver/105/rno3.0/doxia-module-apt-1.0-alpha-11.jar
+END
+ojdbc7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/srcsvn/library/!svn/ver/116/rno3.0/ojdbc7.jar
+END
+doxia-core-1.0-alpha-11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/srcsvn/library/!svn/ver/105/rno3.0/doxia-core-1.0-alpha-11.jar
+END
+mchange-commons-java-0.2.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/srcsvn/library/!svn/ver/105/rno3.0/mchange-commons-java-0.2.10.jar
+END
+org.springframework.context.support-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.context.support-3.0.4.RELEASE.jar
+END
+poi-excelant-3.8-20120326.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/srcsvn/library/!svn/ver/105/rno3.0/poi-excelant-3.8-20120326.jar
+END
+hbase-protocol-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-protocol-1.0.0-cdh5.5.0.jar
+END
+commons-el-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/105/rno3.0/commons-el-1.0.jar
+END
+protobuf-java-2.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/srcsvn/library/!svn/ver/105/rno3.0/protobuf-java-2.5.0.jar
+END
+commons-pool-1.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/srcsvn/library/!svn/ver/105/rno3.0/commons-pool-1.5.5.jar
+END
+mockejb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/srcsvn/library/!svn/ver/105/rno3.0/mockejb.jar
+END
+commons-compress-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/srcsvn/library/!svn/ver/105/rno3.0/commons-compress-1.4.1.jar
+END
+jetty-util-6.1.26.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/srcsvn/library/!svn/ver/105/rno3.0/jetty-util-6.1.26.jar
+END
+commons-collections-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/srcsvn/library/!svn/ver/105/rno3.0/commons-collections-3.2.jar
+END
+junit-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/srcsvn/library/!svn/ver/105/rno3.0/junit-4.4.jar
+END
+ant-1.9.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/srcsvn/library/!svn/ver/105/rno3.0/ant-1.9.4.jar
+END
+jackson-xc-1.8.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/srcsvn/library/!svn/ver/105/rno3.0/jackson-xc-1.8.8.jar
+END
+hadoop-yarn-applications-distributedshell-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-yarn-applications-distributedshell-2.6.0-cdh5.5.0.jar
+END
+hbase-shell-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-shell-1.0.0-cdh5.5.0.jar
+END
+htrace-core4-4.0.1-incubating.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/srcsvn/library/!svn/ver/116/rno3.0/htrace-core4-4.0.1-incubating.jar
+END
+hadoop-aws-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-aws-2.6.0-cdh5.5.0.jar
+END
+cglib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/srcsvn/library/!svn/ver/105/rno3.0/cglib.jar
+END
+hadoop-common-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-common-2.6.0-cdh5.5.0.jar
+END
+commons-cli-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/srcsvn/library/!svn/ver/105/rno3.0/commons-cli-1.2.jar
+END
+antlr-runtime-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/srcsvn/library/!svn/ver/105/rno3.0/antlr-runtime-3.1.1.jar
+END
+mail-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/srcsvn/library/!svn/ver/105/rno3.0/mail-1.4.1.jar
+END
+avro-1.7.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/srcsvn/library/!svn/ver/105/rno3.0/avro-1.7.4.jar
+END
+slf4j-log4j12-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/srcsvn/library/!svn/ver/116/rno3.0/slf4j-log4j12-1.7.5.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/srcsvn/library/!svn/ver/105/rno3.0/dom4j-1.6.1.jar
+END
+hadoop-gridmix-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-gridmix-2.6.0-cdh5.5.0.jar
+END
+xwork-core-2.3.15.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/srcsvn/library/!svn/ver/105/rno3.0/xwork-core-2.3.15.1.jar
+END
+httpmime-4.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/105/rno3.0/httpmime-4.1.1.jar
+END
+hadoop-yarn-common-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-yarn-common-2.6.0-cdh5.5.0.jar
+END
+asm-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/srcsvn/library/!svn/ver/105/rno3.0/asm-1.5.3.jar
+END
+commons-logging-api-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/srcsvn/library/!svn/ver/105/rno3.0/commons-logging-api-1.1.jar
+END
+poi-ooxml-3.8-20120326.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/srcsvn/library/!svn/ver/105/rno3.0/poi-ooxml-3.8-20120326.jar
+END
+log4j-1.2.17.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/srcsvn/library/!svn/ver/116/rno3.0/log4j-1.2.17.jar
+END
+hive-common-1.1.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/srcsvn/library/!svn/ver/116/rno3.0/hive-common-1.1.0-cdh5.5.0.jar
+END
+avro-ipc-1.7.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/105/rno3.0/avro-ipc-1.7.4.jar
+END
+gson-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/srcsvn/library/!svn/ver/105/rno3.0/gson-1.4.jar
+END
+guava-11.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/srcsvn/library/!svn/ver/105/rno3.0/guava-11.0.2.jar
+END
+wstx-lgpl-3.2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/srcsvn/library/!svn/ver/105/rno3.0/wstx-lgpl-3.2.6.jar
+END
+hadoop-yarn-api-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-yarn-api-2.6.0-cdh5.5.0.jar
+END
+c3p0-oracle-thin-extras-0.9.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/srcsvn/library/!svn/ver/105/rno3.0/c3p0-oracle-thin-extras-0.9.5.1.jar
+END
+commons-configuration-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/srcsvn/library/!svn/ver/105/rno3.0/commons-configuration-1.6.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/srcsvn/library/!svn/ver/105/rno3.0/jta-1.1.jar
+END
+com.jcraft.jsch_0.1.31.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/srcsvn/library/!svn/ver/115/rno3.0/com.jcraft.jsch_0.1.31.jar
+END
+hadoop-auth-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-auth-2.6.0-cdh5.5.0.jar
+END
+oscache-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/srcsvn/library/!svn/ver/105/rno3.0/oscache-2.1.jar
+END
+surefire-api-2.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/srcsvn/library/!svn/ver/105/rno3.0/surefire-api-2.4.3.jar
+END
+hadoop-mapreduce-client-hs-plugins-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-mapreduce-client-hs-plugins-2.6.0-cdh5.5.0.jar
+END
+commons-lang3-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/srcsvn/library/!svn/ver/105/rno3.0/commons-lang3-3.1.jar
+END
+hadoop-yarn-client-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-yarn-client-2.6.0-cdh5.5.0.jar
+END
+hadoop-mapreduce-client-nativetask-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-mapreduce-client-nativetask-2.6.0-cdh5.5.0.jar
+END
+hibernate-entitymanager-3.4.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/srcsvn/library/!svn/ver/105/rno3.0/hibernate-entitymanager-3.4.0.GA.jar
+END
+jets3t-0.9.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/srcsvn/library/!svn/ver/105/rno3.0/jets3t-0.9.0.jar
+END
+snappy-java-1.0.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/srcsvn/library/!svn/ver/105/rno3.0/snappy-java-1.0.4.1.jar
+END
+hadoop-mapreduce-client-shuffle-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-mapreduce-client-shuffle-2.6.0-cdh5.5.0.jar
+END
+org.springframework.core-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.core-3.0.4.RELEASE.jar
+END
+pinyin4j-2.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/105/rno3.0/pinyin4j-2.5.0.jar
+END
+hadoop-azure-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-azure-2.6.0-cdh5.5.0.jar
+END
+hbase-thrift-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-thrift-1.0.0-cdh5.5.0.jar
+END
+struts2-json-plugin-2.3.15.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/srcsvn/library/!svn/ver/105/rno3.0/struts2-json-plugin-2.3.15.1.jar
+END
+surefire-booter-2.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/srcsvn/library/!svn/ver/105/rno3.0/surefire-booter-2.4.3.jar
+END
+slf4j-api-1.7.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/srcsvn/library/!svn/ver/110/rno3.0/slf4j-api-1.7.12.jar
+END
+httpcore-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/srcsvn/library/!svn/ver/108/rno3.0/httpcore-4.4.jar
+END
+jpdl-migration-4.5-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/srcsvn/library/!svn/ver/105/rno3.0/jpdl-migration-4.5-SNAPSHOT.jar
+END
+org.springframework.web-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.web-3.0.4.RELEASE.jar
+END
+hbase-rest-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-rest-1.0.0-cdh5.5.0.jar
+END
+org.springframework.instrument-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.instrument-3.0.4.RELEASE.jar
+END
+htrace-core-3.2.0-incubating.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/srcsvn/library/!svn/ver/116/rno3.0/htrace-core-3.2.0-incubating.jar
+END
+bson-3.0.0-rc1-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/srcsvn/library/!svn/ver/109/rno3.0/bson-3.0.0-rc1-sources.jar
+END
+java-xmlbuilder-0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/srcsvn/library/!svn/ver/105/rno3.0/java-xmlbuilder-0.4.jar
+END
+commons-validator-1.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/srcsvn/library/!svn/ver/105/rno3.0/commons-validator-1.3.1.jar
+END
+juli-6.0.20.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/srcsvn/library/!svn/ver/105/rno3.0/juli-6.0.20.jar
+END
+commons-codec-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/srcsvn/library/!svn/ver/105/rno3.0/commons-codec-1.4.jar
+END
+jaxb-api-2.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/105/rno3.0/jaxb-api-2.2.2.jar
+END
+juel-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/srcsvn/library/!svn/ver/105/rno3.0/juel-impl.jar
+END
+hadoop-mapreduce-client-jobclient-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-mapreduce-client-jobclient-2.6.0-cdh5.5.0.jar
+END
+hadoop-archives-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-archives-2.6.0-cdh5.5.0.jar
+END
+commons-digester-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/srcsvn/library/!svn/ver/105/rno3.0/commons-digester-2.0.jar
+END
+hsqldb-1.8.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/105/rno3.0/hsqldb-1.8.0.7.jar
+END
+org.springframework.transaction-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.transaction-3.0.4.RELEASE.jar
+END
+spring-ldap-1.3.0.RELEASE-all.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/srcsvn/library/!svn/ver/105/rno3.0/spring-ldap-1.3.0.RELEASE-all.jar
+END
+hbase-checkstyle-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-checkstyle-1.0.0-cdh5.5.0.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/srcsvn/library/!svn/ver/105/rno3.0/commons-lang-2.6.jar
+END
+jackson-mapper-asl-1.8.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/srcsvn/library/!svn/ver/105/rno3.0/jackson-mapper-asl-1.8.8.jar
+END
+org.springframework.web.portlet-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.web.portlet-3.0.4.RELEASE.jar
+END
+hive-hbase-handler-1.1.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/srcsvn/library/!svn/ver/116/rno3.0/hive-hbase-handler-1.1.0-cdh5.5.0.jar
+END
+chardet-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/srcsvn/library/!svn/ver/105/rno3.0/chardet-1.0.jar
+END
+livetribe-jsr223-2.0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/srcsvn/library/!svn/ver/105/rno3.0/livetribe-jsr223-2.0.5.jar
+END
+quartz-all-1.8.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/srcsvn/library/!svn/ver/105/rno3.0/quartz-all-1.8.4.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/srcsvn/library/!svn/ver/105/rno3.0/commons-logging-1.1.1.jar
+END
+javassist-3.11.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/srcsvn/library/!svn/ver/105/rno3.0/javassist-3.11.0.GA.jar
+END
+poi-scratchpad-3.8-20120326.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/srcsvn/library/!svn/ver/105/rno3.0/poi-scratchpad-3.8-20120326.jar
+END
+c3p0-0.9.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/srcsvn/library/!svn/ver/105/rno3.0/c3p0-0.9.5.1.jar
+END
+xz-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/srcsvn/library/!svn/ver/105/rno3.0/xz-1.0.jar
+END
+org.springframework.orm-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.orm-3.0.4.RELEASE.jar
+END
+org.springframework.context-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.context-3.0.4.RELEASE.jar
+END
+guice-2.0-aopalliance.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/srcsvn/library/!svn/ver/105/rno3.0/guice-2.0-aopalliance.jar
+END
+proxool-0.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/srcsvn/library/!svn/ver/105/rno3.0/proxool-0.9.1.jar
+END
+jaxen-1.1-beta-6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/srcsvn/library/!svn/ver/105/rno3.0/jaxen-1.1-beta-6.jar
+END
+mongo-java-driver-2.13.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/srcsvn/library/!svn/ver/109/rno3.0/mongo-java-driver-2.13.2.jar
+END
+struts2-spring-plugin-2.3.15.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/library/!svn/ver/105/rno3.0/struts2-spring-plugin-2.3.15.1.jar
+END
+surefire-junit4-2.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/srcsvn/library/!svn/ver/105/rno3.0/surefire-junit4-2.4.3.jar
+END
+xmlbeans-2.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/105/rno3.0/xmlbeans-2.3.0.jar
+END
+hibernate-commons-annotations-3.1.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/srcsvn/library/!svn/ver/105/rno3.0/hibernate-commons-annotations-3.1.0.GA.jar
+END
+hadoop-mapreduce-examples-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-mapreduce-examples-2.6.0-cdh5.5.0.jar
+END
+jsr305-3.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/srcsvn/library/!svn/ver/116/rno3.0/jsr305-3.0.0.jar
+END
+hadoop-distcp-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-distcp-2.6.0-cdh5.5.0.jar
+END
+hadoop-yarn-server-resourcemanager-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-yarn-server-resourcemanager-2.6.0-cdh5.5.0.jar
+END
+httpclient-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/108/rno3.0/httpclient-4.4.jar
+END
+netty-3.6.6.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/srcsvn/library/!svn/ver/105/rno3.0/netty-3.6.6.Final.jar
+END
+org.springframework.test-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.test-3.0.4.RELEASE.jar
+END
+hadoop-yarn-server-common-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-yarn-server-common-2.6.0-cdh5.5.0.jar
+END
+doxia-decoration-model-1.0-alpha-11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/srcsvn/library/!svn/ver/105/rno3.0/doxia-decoration-model-1.0-alpha-11.jar
+END
+org.springframework.aop-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.aop-3.0.4.RELEASE.jar
+END
+guice-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/srcsvn/library/!svn/ver/105/rno3.0/guice-2.0.jar
+END
+hadoop-hdfs-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-hdfs-2.6.0-cdh5.5.0.jar
+END
+hbase-server-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-server-1.0.0-cdh5.5.0.jar
+END
+libfb303-0.9.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/108/rno3.0/libfb303-0.9.2.jar
+END
+doxia-module-xhtml-1.0-alpha-11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/srcsvn/library/!svn/ver/105/rno3.0/doxia-module-xhtml-1.0-alpha-11.jar
+END
+hive-exec-1.1.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/srcsvn/library/!svn/ver/116/rno3.0/hive-exec-1.1.0-cdh5.5.0.jar
+END
+jackson-databind-2.2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/srcsvn/library/!svn/ver/116/rno3.0/jackson-databind-2.2.3.jar
+END
+org.springframework.jms-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.jms-3.0.4.RELEASE.jar
+END
+hibernate-annotations-3.4.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/library/!svn/ver/105/rno3.0/hibernate-annotations-3.4.0.GA.jar
+END
+paranamer-2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/srcsvn/library/!svn/ver/105/rno3.0/paranamer-2.3.jar
+END
+proxool-cglib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/srcsvn/library/!svn/ver/105/rno3.0/proxool-cglib.jar
+END
+jsr250-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/105/rno3.0/jsr250-api-1.0.jar
+END
+iscreate_hadoop_jobs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/srcsvn/library/!svn/ver/116/rno3.0/iscreate_hadoop_jobs.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/srcsvn/library/!svn/ver/116/rno3.0/jdom.jar
+END
+core-3.4.2.v_883_R34x.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/srcsvn/library/!svn/ver/105/rno3.0/core-3.4.2.v_883_R34x.jar
+END
+poi-3.8-20120326.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/srcsvn/library/!svn/ver/105/rno3.0/poi-3.8-20120326.jar
+END
+hadoop-datajoin-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-datajoin-2.6.0-cdh5.5.0.jar
+END
+hadoop-annotations-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-annotations-2.6.0-cdh5.5.0.jar
+END
+hadoop-mapreduce-client-common-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-mapreduce-client-common-2.6.0-cdh5.5.0.jar
+END
+hadoop-streaming-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-streaming-2.6.0-cdh5.5.0.jar
+END
+oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/srcsvn/library/!svn/ver/105/rno3.0/oro-2.0.8.jar
+END
+hbase-it-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-it-1.0.0-cdh5.5.0.jar
+END
+aopalliance-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/srcsvn/library/!svn/ver/105/rno3.0/aopalliance-1.0.jar
+END
+commons-net-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/srcsvn/library/!svn/ver/105/rno3.0/commons-net-3.1.jar
+END
+hadoop-nfs-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-nfs-2.6.0-cdh5.5.0.jar
+END
+hadoop-mapreduce-client-app-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-mapreduce-client-app-2.6.0-cdh5.5.0.jar
+END
+org.springframework.oxm-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.oxm-3.0.4.RELEASE.jar
+END
+hibernate-jpa-2.0-api-1.0.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/srcsvn/library/!svn/ver/114/rno3.0/hibernate-jpa-2.0-api-1.0.1.Final.jar
+END
+subethasmtp-wiser-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/srcsvn/library/!svn/ver/105/rno3.0/subethasmtp-wiser-1.2.jar
+END
+hadoop-mapreduce-client-core-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-mapreduce-client-core-2.6.0-cdh5.5.0.jar
+END
+jetty-6.1.26.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/srcsvn/library/!svn/ver/105/rno3.0/jetty-6.1.26.jar
+END
+xmemcached-2.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/srcsvn/library/!svn/ver/116/rno3.0/xmemcached-2.0.0.jar
+END
+org.springframework.jdbc-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.jdbc-3.0.4.RELEASE.jar
+END
+xBaseJ21040412.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/srcsvn/library/!svn/ver/105/rno3.0/xBaseJ21040412.jar
+END
+xml-apis-1.0.b2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/srcsvn/library/!svn/ver/105/rno3.0/xml-apis-1.0.b2.jar
+END
+hadoop-yarn-server-web-proxy-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-yarn-server-web-proxy-2.6.0-cdh5.5.0.jar
+END
+hbase-testing-util-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-testing-util-1.0.0-cdh5.5.0.jar
+END
+doxia-module-fml-1.0-alpha-11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/srcsvn/library/!svn/ver/105/rno3.0/doxia-module-fml-1.0-alpha-11.jar
+END
+poi-ooxml-schemas-3.8-20120326.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/library/!svn/ver/105/rno3.0/poi-ooxml-schemas-3.8-20120326.jar
+END
+hadoop-extras-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-extras-2.6.0-cdh5.5.0.jar
+END
+hadoop-rumen-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-rumen-2.6.0-cdh5.5.0.jar
+END
+org.springframework.instrument.tomcat-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.instrument.tomcat-3.0.4.RELEASE.jar
+END
+org.springframework.web.struts-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.web.struts-3.0.4.RELEASE.jar
+END
+ehcache-1.2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/srcsvn/library/!svn/ver/105/rno3.0/ehcache-1.2.3.jar
+END
+hbase-annotations-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-annotations-1.0.0-cdh5.5.0.jar
+END
+commons-fileupload-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/srcsvn/library/!svn/ver/105/rno3.0/commons-fileupload-1.2.1.jar
+END
+jargs-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/srcsvn/library/!svn/ver/105/rno3.0/jargs-1.0.jar
+END
+subethasmtp-smtp-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/srcsvn/library/!svn/ver/105/rno3.0/subethasmtp-smtp-1.2.jar
+END
+doxia-site-renderer-1.0-alpha-11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/srcsvn/library/!svn/ver/105/rno3.0/doxia-site-renderer-1.0-alpha-11.jar
+END
+poi-examples-3.8-20120326.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/srcsvn/library/!svn/ver/105/rno3.0/poi-examples-3.8-20120326.jar
+END
+hbase-prefix-tree-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-prefix-tree-1.0.0-cdh5.5.0.jar
+END
+jersey-client-1.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/srcsvn/library/!svn/ver/116/rno3.0/jersey-client-1.9.jar
+END
+org.springframework.asm-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.asm-3.0.4.RELEASE.jar
+END
+doxia-module-xdoc-1.0-alpha-11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/srcsvn/library/!svn/ver/105/rno3.0/doxia-module-xdoc-1.0-alpha-11.jar
+END
+juel-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/srcsvn/library/!svn/ver/105/rno3.0/juel-engine.jar
+END
+poi-ooxml-3.8-beta1-20110307.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/srcsvn/library/!svn/ver/105/rno3.0/poi-ooxml-3.8-beta1-20110307.jar
+END
+hive-hcatalog-core-1.1.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/srcsvn/library/!svn/ver/116/rno3.0/hive-hcatalog-core-1.1.0-cdh5.5.0.jar
+END
+jackson-core-asl-1.8.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/srcsvn/library/!svn/ver/105/rno3.0/jackson-core-asl-1.8.8.jar
+END
+servlet-api-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/srcsvn/library/!svn/ver/116/rno3.0/servlet-api-2.5.jar
+END
+hbase-examples-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-examples-1.0.0-cdh5.5.0.jar
+END
+commons-httpclient-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/srcsvn/library/!svn/ver/105/rno3.0/commons-httpclient-3.1.jar
+END
+high-scale-lib-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/srcsvn/library/!svn/ver/105/rno3.0/high-scale-lib-1.1.1.jar
+END
+org.springframework.beans-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.beans-3.0.4.RELEASE.jar
+END
+hive-service-1.1.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/srcsvn/library/!svn/ver/116/rno3.0/hive-service-1.1.0-cdh5.5.0.jar
+END
+hadoop-sls-2.6.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/srcsvn/library/!svn/ver/116/rno3.0/hadoop-sls-2.6.0-cdh5.5.0.jar
+END
+xmlenc-0.52.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/srcsvn/library/!svn/ver/105/rno3.0/xmlenc-0.52.jar
+END
+cpdetector_1.0.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/srcsvn/library/!svn/ver/105/rno3.0/cpdetector_1.0.10.jar
+END
+ognl-3.0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/srcsvn/library/!svn/ver/105/rno3.0/ognl-3.0.6.jar
+END
+org.springframework.expression-3.0.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/srcsvn/library/!svn/ver/105/rno3.0/org.springframework.expression-3.0.4.RELEASE.jar
+END
+hbase-hadoop2-compat-1.0.0-cdh5.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/srcsvn/library/!svn/ver/116/rno3.0/hbase-hadoop2-compat-1.0.0-cdh5.5.0.jar
+END
+guice-aopalliance.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/srcsvn/library/!svn/ver/105/rno3.0/guice-aopalliance.jar
+END
+velocity-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/srcsvn/library/!svn/ver/105/rno3.0/velocity-1.7.jar
+END
+commons-beanutils-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/srcsvn/library/!svn/ver/105/rno3.0/commons-beanutils-1.7.0.jar
+END
+jersey-core-1.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/srcsvn/library/!svn/ver/116/rno3.0/jersey-core-1.9.jar
+END
+struts2-core-2.3.15.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/srcsvn/library/!svn/ver/105/rno3.0/struts2-core-2.3.15.1.jar
+END
